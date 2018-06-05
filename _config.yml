@@ -70,7 +70,7 @@ username: francisreed
 repo: francisreedie.github.io
 branch: master
 relative_source: ../jasper2/
-destination: ../francisreedie.github.io/
+destination: ../francisreedie.github.io/jasper2-pages/
 production_url:  https://francisreedie.com
 source_url:  https://github.com/francisreed/francisreedie.github.io/jasper2/
 
