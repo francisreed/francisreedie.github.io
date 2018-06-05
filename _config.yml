@@ -14,7 +14,7 @@ cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: https://francisreedie.github.io
+production_url: https://francisreedie.com
 source_url: https://github.com/francisreed/francisreedie.github.io/jasper2/
 
 # Social info
@@ -71,7 +71,7 @@ repo: francisreedie.github.io
 branch: master
 relative_source: ../jasper2/
 destination: ../
-production_url:  https://francisreedie.github.io
+production_url:  https://francisreedie.com
 source_url:  https://github.com/francisreed/francisreedie.github.io/jasper2/
 
 exclude:
